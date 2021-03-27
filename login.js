@@ -1,2 +1,2 @@
 console.log(ss);
-console.log(sss);
+console.log(s);
